@@ -142,7 +142,7 @@ O produto é destinado a:
 ## 🎯 Resultado final:
 
 Acesse o protótipo funcional no Lovable:  
-**https://minhasfinancasfacil.lovable.app/**
+**[https://minhasfinancasfacil.lovable.app/](https://minhasfinancasfacil.lovable.app/)**
 
 <img width="708" height="768" alt="image" src="https://github.com/user-attachments/assets/afb36e64-77d8-4d23-be01-0f4305aa6750" />
 
