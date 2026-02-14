@@ -144,12 +144,22 @@ O produto é destinado a:
 Acesse o protótipo funcional no Lovable:  
 **https://minhasfinancasfacil.lovable.app/auth**
 
-<img width="708" height="768" alt="image" src="https://github.com/user-attachments/assets/afb36e64-77d8-4d23-be01-0f4305aa6750" />
+<img width="579" height="709" alt="image" src="https://github.com/user-attachments/assets/29f79020-cba3-4361-ace6-088ffd40e588" />
+
+<img width="567" height="709" alt="image" src="https://github.com/user-attachments/assets/346be39c-6a97-483d-bda4-0b140fd5f2c3" />
+
+<img width="719" height="712" alt="image" src="https://github.com/user-attachments/assets/8b4bf673-afc9-456e-9529-96f05a3843ee" />
 
 ---
 
 ## 📱 Funcionalidades do App
+### 💬 Tela Principal (Login)
+Login.
+
+Criar conta.
+
 ### 💬 Tela de Conversa (Chat)
+
 Registro de gastos em linguagem natural.
 
 Respostas automáticas do Agente Financeiro.
